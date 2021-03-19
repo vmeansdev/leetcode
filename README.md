@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Swift](./solutions/1.%20Two%20Sum.swift)|32 ms|
+|15|[ 3Sum](https://leetcode.com/problems/3sum/)|[Swift](./solutions/15.%203Sum.swift)|1040 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Swift](./solutions/53.%20Maximum%20Subarray.swift)|36 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Swift](./solutions/54.%20Spiral%20Matrix.swift)|0 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Swift](./solutions/56.%20Merge%20Intervals.swift)|84 ms|
