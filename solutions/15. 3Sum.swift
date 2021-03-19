@@ -6,18 +6,20 @@ class Solution {
         var result: [[Int]] = []
         let nums = nums.sorted()
         for i in 0 ..< nums.count {
-            if i != 0 && nums[i] == nums[i - 1] { continue }
+            let x = nums[i]
+            if i != 0 && x == nums[i - 1] { continue }
             var visited: Set<Int> = []
             var j = i + 1
             while j < nums.count {
-                let z = -nums[i] - nums[j]
+                let y = nums[j]
+                let z = -x - y
                 if visited.contains(z) {
-                    result.append([nums[i], nums[j], z])
-                    while j + 1 < nums.count && nums[j + 1] == nums[j] {
+                    result.append([x, y, z])
+                    while j + 1 < nums.count && nums[j + 1] == y {
                         j += 1
                     }
                 }
-                visited.insert(nums[j])
+                visited.insert(y)
                 j += 1
             }
         }
