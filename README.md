@@ -13,3 +13,4 @@
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Swift](./solutions/238.%20Product%20of%20Array%20Except%20Self.swift)|216 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Swift](./solutions/283.%20Move%20Zeroes.swift)|40 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Swift](./solutions/509.%20Fibonacci%20Number.swift)|0 ms|
+|704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Swift](./solutions/704.%20Binary%20Search.swift)|304 ms|
