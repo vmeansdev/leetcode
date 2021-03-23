@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Swift](./solutions/1.%20Two%20Sum.swift)|32 ms|
+|2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Swift](./solutions/2.%20Add%20Two%20Numbers.swift)|44 ms|
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[Swift](./solutions/15.%203Sum.swift)|1040 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Swift](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.swift)|8 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Swift](./solutions/35.%20Search%20Insert%20Position.swift)|28 ms|
