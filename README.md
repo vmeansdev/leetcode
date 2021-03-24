@@ -12,6 +12,7 @@
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Swift](./solutions/56.%20Merge%20Intervals.swift)|84 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Swift](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.swift)|960 ms|
 |151|[ Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Swift](./solutions/151.%20Reverse%20Words%20in%20a%20String.swift)|24 ms|
+|206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Swift](./solutions/206.%20Reverse%20Linked%20List.swift)|12 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Swift](./solutions/238.%20Product%20of%20Array%20Except%20Self.swift)|216 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Swift](./solutions/240.%20Search%20a%202D%20Matrix%20II.swift)|304 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Swift](./solutions/283.%20Move%20Zeroes.swift)|40 ms|
