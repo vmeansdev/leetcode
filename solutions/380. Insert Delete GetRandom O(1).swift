@@ -1,16 +1,11 @@
 ​
 class RandomizedSet {
 ​
-    private var store: [Int]
-    private var state: [Int: Int]
-    private var count: Int
+    private var store: [Int] = []
+    private var state: [Int: Int] = [:]
     
     /** Initialize your data structure here. */
-    init() {
-        store = []
-        state = [:]
-        count = 0
-    }
+    init() { }
     
     /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
     func insert(_ val: Int) -> Bool {
@@ -18,8 +13,7 @@ class RandomizedSet {
             return false
         }
         store.append(val)
-        state[val] = count
-        count += 1
+        state[val] = store.count - 1
         return true
     }
     
@@ -36,13 +30,12 @@ class RandomizedSet {
         }
         store.removeLast()
         state.removeValue(forKey: val)
-        count -= 1
         return true
     }
     
     /** Get a random element from the set. */
     func getRandom() -> Int {
-        let index = Int.random(in: 0 ..< count)
+        let index = Int.random(in: 0 ..< store.count)
         return store[index]
     }
 }
