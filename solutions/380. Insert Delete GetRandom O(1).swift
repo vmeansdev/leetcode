@@ -1,3 +1,30 @@
+​
+class RandomizedSet {
+​
+    private var store: [Int]
+    private var state: [Int: Int]
+    private var count: Int
+    
+    /** Initialize your data structure here. */
+    init() {
+        store = []
+        state = [:]
+        count = 0
+    }
+    
+    /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
+    func insert(_ val: Int) -> Bool {
+        guard state[val] == nil else {
+            return false
+        }
+        store.append(val)
+        state[val] = count
+        count += 1
+        return true
+    }
+    
+    /** Removes a value from the set. Returns true if the set contained the specified element. */
+    func remove(_ val: Int) -> Bool {
         guard let index = state[val] else {
             return false
         }
