@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Swift](./solutions/1.%20Two%20Sum.swift)|32 ms|
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Swift](./solutions/2.%20Add%20Two%20Numbers.swift)|44 ms|
+|3|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Swift](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|32 ms|
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[Swift](./solutions/15.%203Sum.swift)|1040 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Swift](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.swift)|8 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Swift](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.swift)|12 ms|
