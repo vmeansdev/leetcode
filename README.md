@@ -18,6 +18,7 @@
 |151|[ Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Swift](./solutions/151.%20Reverse%20Words%20in%20a%20String.swift)|24 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Swift](./solutions/162.%20Find%20Peak%20Element.swift)|24 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Swift](./solutions/206.%20Reverse%20Linked%20List.swift)|12 ms|
+|226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Swift](./solutions/226.%20Invert%20Binary%20Tree.swift)|4 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Swift](./solutions/238.%20Product%20of%20Array%20Except%20Self.swift)|216 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Swift](./solutions/240.%20Search%20a%202D%20Matrix%20II.swift)|304 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Swift](./solutions/283.%20Move%20Zeroes.swift)|40 ms|
