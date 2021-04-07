@@ -13,6 +13,7 @@
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Swift](./solutions/54.%20Spiral%20Matrix.swift)|0 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Swift](./solutions/56.%20Merge%20Intervals.swift)|84 ms|
 |84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Swift](./solutions/84.%20Largest%20Rectangle%20in%20Histogram.swift)|1132 ms|
+|102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Swift](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.swift)|8 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Swift](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.swift)|28 ms|
 |110|[ Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Swift](./solutions/110.%20Balanced%20Binary%20Tree.swift)|48 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Swift](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.swift)|960 ms|
