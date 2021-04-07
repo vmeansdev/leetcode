@@ -15,11 +15,11 @@
  */
 class Solution {
     func levelOrder(_ root: TreeNode?) -> [[Int]] {
-        guard let node = root else {
+        guard let root = root else {
             return []
         }
         var result: [[Int]] = []
-        var queue: [TreeNode] = [node]
+        var queue: [TreeNode] = [root]
         while !queue.isEmpty {
             var vals: [Int] = []
             for _ in 0 ..< queue.count {
