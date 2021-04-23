@@ -29,3 +29,4 @@
 |380|[ Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Swift](./solutions/380.%20Insert%20Delete%20GetRandom%20O(1).swift)|132 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Swift](./solutions/509.%20Fibonacci%20Number.swift)|0 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Swift](./solutions/704.%20Binary%20Search.swift)|304 ms|
+|743|[ Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Swift](./solutions/743.%20Network%20Delay%20Time.swift)|3692 ms|
