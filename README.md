@@ -30,3 +30,4 @@
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Swift](./solutions/509.%20Fibonacci%20Number.swift)|0 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Swift](./solutions/704.%20Binary%20Search.swift)|304 ms|
 |743|[ Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Swift](./solutions/743.%20Network%20Delay%20Time.swift)|3692 ms|
+|997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Swift](./solutions/997.%20Find%20the%20Town%20Judge.swift)|816 ms|
