@@ -22,6 +22,7 @@
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Swift](./solutions/162.%20Find%20Peak%20Element.swift)|24 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Swift](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.swift)|4 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Swift](./solutions/206.%20Reverse%20Linked%20List.swift)|12 ms|
+|207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Swift](./solutions/207.%20Course%20Schedule.swift)|100 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Swift](./solutions/226.%20Invert%20Binary%20Tree.swift)|4 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Swift](./solutions/238.%20Product%20of%20Array%20Except%20Self.swift)|216 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Swift](./solutions/240.%20Search%20a%202D%20Matrix%20II.swift)|304 ms|
